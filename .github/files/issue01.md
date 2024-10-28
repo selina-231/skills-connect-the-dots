@@ -1,3 +1,5 @@
+-Duplicate of 2
+
 # GIVEN:
 
 - User opens \_sidebar.md file
